@@ -1,0 +1,3 @@
+logout user
+----------------
+sudo pkill -KILL -u guest-2Rw4Lq
