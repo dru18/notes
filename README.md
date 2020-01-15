@@ -15,4 +15,6 @@ cp ~/Pictures/error.png issue/screenshot/```
 ^error^solved^
 ```
 
-* cylinder volume program shows args and colored example for python3
+* [Look](https://github.com/dru18/notes/blob/master/cylinder_volume.py) Cylinder volume program shows args and colored example for python3
+
+* [Look](https://github.com/dru18/notes/blob/master/RecoverPassword.html) How to recover the password for the Linux and Windows.
