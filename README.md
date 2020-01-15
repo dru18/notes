@@ -15,9 +15,13 @@ cp ~/Pictures/error.png issue/screenshot/```
 ^error^solved^
 ```
 
-* [Look](https://github.com/dru18/notes/blob/master/cylinder_volume.py) Cylinder volume program shows args and colored example for python3
+## args and colored
 
-* [Look](https://github.com/dru18/notes/wiki/Recover-password) How to recover the password for the Linux and Windows.
+[Look](https://github.com/dru18/notes/blob/master/cylinder_volume.py) Cylinder volume program shows args and colored example for python3
+
+## Recover the password
+
+[Look](https://github.com/dru18/notes/wiki/Recover-password) How to recover the password for the Linux and Windows.
 
 ## Exclude
 
@@ -28,4 +32,3 @@ cp ~/Pictures/error.png issue/screenshot/```
 * 172.16.0.0/12
 
 > Exclude these port rang from masscan and nmap in python scripts to avoid unnecessary scans.
-
